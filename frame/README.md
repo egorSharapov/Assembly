@@ -1,5 +1,6 @@
-Drawing frame with shifting message program
+Programm that draws frame with running message
 ===========================================
 
-
+Demonstration
+-------------
 ![](https://github.com/egorSharapov/Assembly/blob/main/frame/frame.gif)

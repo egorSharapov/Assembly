@@ -1,4 +1,4 @@
-Programm that draws frame with running message
+Program that draws frame with running message
 ===========================================
 
 Demonstration
